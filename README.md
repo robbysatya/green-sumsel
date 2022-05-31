@@ -1,2 +1,5 @@
-# Tubes-SIG-Panick
-Halo, kami dari Panick Group. Kali ini, kami membuat tugas besar Sistem Informasi Geografis Program Studi Teknik Informatika, Institut Teknologi Sumatera. Dalam tugas besar ini, kami membuat Sistem Informasi Lahan Kering Provinsi Sumatera Selatan
+# Green Sumsel App
+You can see demo app here : https://greensumsel.000webhostapp.com/
+##Login 
+username : admin
+password : secret
